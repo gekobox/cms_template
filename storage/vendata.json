@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vendata-173620",
+  "private_key_id": "02d2981e8cf97c7996224f886d583d5d2f663d54",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDXdzO3w6/xU4VX\nLs+0rIG/bQlQBcUA1w7vWBvhVNhd/owK4ZxIo0MlkcBfIiSWDKg6ZO+NQ6OO9/SX\nU2fFgDBEn+900x4j8qXlymYTdG2Vz+KpRT635grsL5hYpt3cCGRbkdh4Gjn4Rk7w\nDsIwc/tzYtDFLQOhmuy6P3w/PEMTvWCxTi+voyFObC5U4VroZf9nnJmqwkAzEe7W\n4nr1WhJL0Ek/tbkdIXg7EMIR/WdcqItfvTiSzLV7QFHfwquiEaUKhS95nv9f5805\nPx+RQF2MWB5GogIBSztorQNjRJZSFPq/u+p5f17233AXNBlW2U4PZ1Ny71WySGgE\nlovxbyM7AgMBAAECggEADo1Pbq7TUcvGERBPsn0gIJfMB2qMVpuWHglOWlaXnymG\nhDAE+4CDRwtKYC9D8OcwvKWw6oW4V/r17i54FYYSot/f+7AY56A6Uh25IFrYEXeP\nCfpr216FbrqVyHVko7kXxhNzxXcuYrU+gy0/MkFZdZglgqht1I4ZEa8hKuHDPTCI\nySo5GqEAbz5stfEV1LGvZe6InkkduyeDItakG34UaXsn3/3Svor4+44wu1fCHRDA\nk1jmF5iERz7U5Cj98uc6M9bcOpmXACoCMqOwAxBeuml3fYHMBxu4LCWMxrsK30Ow\nSnUfiIypdhD9kK2d4xUZ7DkvTo7WEF4jqeGQoNJGGQKBgQDxPTf8QbyNdfmMI4J5\nh+mtVgygqTBnH61mz3InAf4peitQxJpTo+gAlzR9ekERP/Nezdy84giN3XFy+B94\nOTKO7Bi1nL1Rk/whYS/yJWc0QHW2u1EeRRNSNcrfRv1Tkepn95WA0UjtPnHIaDho\nZ3NrGN0u1WjUaQfEQ+ude6nb/QKBgQDkpkQVyleHxDOGJMYcNddW+9qqtGglbbt0\nrfQ8Luu12tepcX0fSLQlE1Z8JMXXcmJfJhBKD33pptAT0KLznAYzlsSpnxk51c9s\n+NA/UakZT6rRGVkbNPCR0Gzot+UHjbv9pTcmwhPtHWvKc4/iW3ZM7+e9VSOux+Sk\nQqlUL281lwKBgEJTxafa3x+51yH7xWzqvIoHBbPKsN85q3CACu/EsX/v8ibj11a1\n0x0OdcUmLuuyPJTNXyqjrxxqTT4CEIz6lPcM3QJaFQdv+7ulwAwA0q5gJr1WJUiA\nT36kAaKAHzix/tQVE4r2f+mS6K/kT9YM04QXswCkdo0oT5Vb41VKYfp1AoGBAL7a\nyhomO8nny9o89+C0UHsa3vt+ezBC2CYczbEuuTGi6kFVqctjNHt+GMKnLz0XDWW+\nr/oh1EgkJatki6AsrECDqMStOLE991ZOmgVAdJXcGglPz0EWf3g3MbFPTq1vcWvX\nbKG9fkR+OmtS6tdW4Ph3iEhRuOc7k25I9m5+6aUhAoGBANU6qNGEMQqhU6+6FhH8\nM2vU0Mpllkjd5cmrHSx+OW6YLZKcNDCvHkqIihdcLzaozZaVOR24G0cegNPWYlCA\nvCfYt1ijnk24+KzVTN+h6dK5TZexjs1nP72XhjStoyLI6DTtvvlIrxOL4vvzv1Po\nJjpLHyMMMgNbsbwhI/0e/sAb\n-----END PRIVATE KEY-----\n",
+  "client_email": "vendata@vendata-173620.iam.gserviceaccount.com",
+  "client_id": "114083487116768342091",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vendata%40vendata-173620.iam.gserviceaccount.com"
+}
